@@ -1,4 +1,4 @@
-<h1> Bem vindo ao nosso Crud feito com Spring Boot com o tema sendo baseado em uma empresa de jogos indie</h1>
+<h3> Bem vindo ao nosso Crud feito com Spring Boot com o tema sendo baseado em uma empresa de jogos indie</h3>
 
 Alunos:
 
@@ -7,4 +7,4 @@ Leonardo Dias Santana Ribeiro
 Vitor Hugo Garcia Mariano
 
 
-<h1> <strong>https://www.youtube.com/watch?v=8FXCVqYpOis</strong></h1>
+<h3> <strong>https://www.youtube.com/watch?v=8FXCVqYpOis</strong></h3>
