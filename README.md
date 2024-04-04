@@ -2,10 +2,11 @@
 
 <p> Alunos: </p>
 
-<p>Igor Yudi Tsuruda
+Igor Yudi Tsuruda
 Leonardo Dias Santana Ribeiro
 Vitor Hugo Garcia Mariano
 </p>
 
 
-<h3> <strong>https://www.youtube.com/watch?v=8FXCVqYpOis</strong></h3>
+<h3> Link da apresentação: <strong>https://www.youtube.com/watch?v=8FXCVqYpOis</strong></h3>
+
