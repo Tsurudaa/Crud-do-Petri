@@ -8,8 +8,4 @@ Vitor Hugo Garcia Mariano <br />
 
 
 
-
-
-
-<h3> Link da apresentação: <strong>https://www.youtube.com/watch?v=8FXCVqYpOis</strong></h3>
-
+<h3> <a href="https://www.youtube.com/watch?v=8FXCVqYpOis" target="_blank">Link da apresentação do projeto</a> </h3>
